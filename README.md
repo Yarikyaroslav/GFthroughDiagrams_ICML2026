@@ -18,3 +18,5 @@ All experiments and figures from the paper can be reproduced using the self-cont
    ```bash
    git clone https://github.com/Yarikyaroslav/GFthroughDiagrams_ICML2026.git
    cd GFthroughDiagrams_ICML2026
+2. Install dependencies.
+3. Run the notebooks.
