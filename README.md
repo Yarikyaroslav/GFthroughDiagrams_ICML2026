@@ -5,8 +5,6 @@ This repository contains the supplementary material for the paper:
 **Gradient Flow Through Diagram Expansions: Learning Regimes and Explicit Solutions**  
 ArXiv: [https://arxiv.org/abs/2602.04548](https://arxiv.org/abs/2602.04548)
 
-GitHub repository: [https://github.com/Yarikyaroslav/GFthroughDiagrams_ICML2026](https://github.com/Yarikyaroslav/GFthroughDiagrams_ICML2026)
-
 ## Overview
 
 All experiments and figures from the paper can be reproduced using the self-contained Jupyter notebooks in this repository.
